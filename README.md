@@ -10,7 +10,7 @@ Bài thực hành Lab 03 môn **Game 2D Development with Unity**.
 Khám phá và phân tích dự án game Star- Blaster
 
 ## ## Các thay đổi đã thực hiện
-Thực hiện chỉnh sửa giao diện UI Ending ở scene GameOver
+Thực hiện chỉnh sửa giao diện UI Ending ở scene GameOver.
 **Giá trị gốc:**
 ![Trước khi chỉnh sửa](Screenshots/before.png)
 
