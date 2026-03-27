@@ -13,10 +13,10 @@ Khám phá và phân tích dự án game Star- Blaster
 Thực hiện chỉnh sửa giao diện UI Ending ở scene GameOver.
 
 **Giá trị gốc:**
-![Trước khi chỉnh sửa](Screenshots/before.png)
+![Trước khi chỉnh sửa](ScreenShots/before.png)
 
 **Giá trị mới:**
-![Sau khi chỉnh sửa](Screenshots/after.png)
+![Sau khi chỉnh sửa](ScreenShots/after.png)
 
 ## ## Kiến thức đã học được
 1. Biết cách clone và mở một dự án Unity từ GitHub.
